@@ -5,9 +5,9 @@ markdown: redcarpet
 # 作者信息
 author: 
   name: 阿牛
-  email: -
+  email: mail_aniu@126.com
   link: http://aniux.com
-  weibo: http://weibo.com/
+  weibo: http://weibo.com/277021163
   github: http://github.com/aniux
   
 # 站点信息
@@ -18,11 +18,11 @@ rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: http://tp1.sinaimg.cn/2099947432/180/40001519758/1
-favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
+favicon: http://www.sudu.cn/ico/favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-54767140-1
+  id: 
   url: aniux.com
 
 # disqus 设置
