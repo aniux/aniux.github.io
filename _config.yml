@@ -22,15 +22,15 @@ favicon: http://www.sudu.cn/ico/favicon.ico
 
 # google analytics 设置
 ga:
-  id: 
+  id: UA-55185080-1
   url: aniux.com
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: -
 
 # 主题设置，自动激活某个标签
-active: 技术
+active: 笔记
 
 # 首页除了最新文章外显示分类
 cates: 
