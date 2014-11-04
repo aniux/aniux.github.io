@@ -7,4 +7,10 @@ keywords: movie
 description: 
 ---
 
-# [http://www.douban.com](http://www.douban.com "『致命录像带3：病毒』")
+# [『致命录像带3：病毒』](http://www.douban.com "『致命录像带3：病毒』")
+
+
+|| *Year* || *Temperature (low)* || *Temperature (high)* ||
+|| 1900 || -10 || 25 ||
+|| 1910 || -15 || 30 ||
+|| 1920 || -10 || 32 ||
