@@ -22,6 +22,12 @@ Year | Temperature (low) | Temperature (high)
 1910 | -15 | 30
 1920 | -10 | 32
 
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 <h2 style="text-align:center;color:#D54E21;margin:20px auto">最新热门电影@2014-11-04</h2>
 <div>来源：所有数据来源于破晓电影和豆瓣网，本站仅作数据抓取和页面分析研究之用，请勿用于商业用途。</div>
 <table id="movietb">
