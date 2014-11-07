@@ -6,7 +6,7 @@ tags: movie
 keywords: movie 
 description: 
 ---
- <h2 style="text-align:center;color:#D54E21;margin:20px auto">电影值得看@2014-11-04</h2>
+<h2 style="text-align:center;color:#D54E21;margin:20px auto">最新热门电影@2014-11-07</h2>
 <div>来源：所有数据来源于破晓电影和豆瓣网，本站仅作数据抓取和页面分析研究之用，请勿用于商业用途。</div>
 <table id="movietb">
 	<thead>
@@ -19,7 +19,58 @@ description:
 	</thead>
 	<tbody>
 		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/25885962/collections" target="_blank">4.9</a>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/25709273/collections" target="_blank">5.6</a>
+			</td>
+			<td>『<a class="movie" href="http://movie.douban.com/subject/25709273/" target="_blank">痞子英雄2：黎明升起</a>』</td>
+			<td><a class="dllink" href="ftp://2:2@p13.poxiao.com:8202/[www.poxiao.com破晓电影]痞子英雄2：黎明升起HD国语中英双字.rmvb" target="_blank">痞子英雄2：黎明升起HD国语中英双字</a>
+			</td>
+			<td><a class="dlsource" href="http://www.poxiao.com/movie/37786.html" target="_blank">破晓电影</a>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/10792320/collections" target="_blank">6.1</a>
+			</td>
+			<td>『<a class="movie" href="http://movie.douban.com/subject/10792320/" target="_blank">十一月杀手</a>』</td>
+			<td><a class="dllink" href="ftp://2:2@p27.poxiao.com:8201/[www.poxiao.com破晓电影]十一月杀手BD中英双字.rmvb" target="_blank">十一月杀手BD中英双字</a>
+			</td>
+			<td><a class="dlsource" href="http://www.poxiao.com/movie/37612.html" target="_blank">破晓电影</a>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a class="grade_bad" href="http://movie.douban.com/subject/25806456/collections" target="_blank"></a>
+			</td>
+			<td>『<a class="movie" href="http://movie.douban.com/subject/25806456/" target="_blank">达伦·布朗：挑战不可能的艺术盗窃</a>』</td>
+			<td><a class="dllink" href="ftp://1:1@p13.poxiao.com:8202/[www.poxiao.com破晓电影]达伦·布朗：挑战不可能的艺术盗窃HD英语中字.rmvb" target="_blank">达伦·布朗：挑战不可能的艺术盗窃HD英语中字</a>
+			</td>
+			<td><a class="dlsource" href="http://www.poxiao.com/movie/37783.html" target="_blank">破晓电影</a>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/4092661/collections" target="_blank">5.3</a>
+			</td>
+			<td>『<a class="movie" href="http://movie.douban.com/subject/4092661/" target="_blank">复仇之角</a>』</td>
+			<td><a class="dllink" href="ftp://1:1@p27.poxiao.com:8201/[www.poxiao.com破晓电影]复仇之角HD英语中字.rmvb" target="_blank">复仇之角HD英语中字</a>
+			</td>
+			<td><a class="dlsource" href="http://www.poxiao.com/movie/37782.html" target="_blank">破晓电影</a>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/10726941/collections" target="_blank">6.1</a>
+			</td>
+			<td>『<a class="movie" href="http://movie.douban.com/subject/10726941/" target="_blank">窃听风云3</a>』</td>
+			<td><a class="dllink" href="ftp://3:3@p13.poxiao.com:8202/窃听风云3BD1280国语中字[www.poxiao.com破晓电影].rmvb" target="_blank">窃听风云3BD1280国语中字</a>
+			</td>
+			<td><a class="dlsource" href="http://www.poxiao.com/movie/37254.html" target="_blank">破晓电影</a>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/25885962/collections" target="_blank">5.2</a>
 			</td>
 			<td>『<a class="movie" href="http://movie.douban.com/subject/25885962/" target="_blank">致命录像带3：病毒</a>』</td>
 			<td><a class="dllink" href="ftp://3:3@p13.poxiao.com:8202/[www.poxiao.com破晓电影]致命录像带3：病毒BD中英双字.rmvb" target="_blank">致命录像带3：病毒BD中英双字</a>
@@ -49,7 +100,7 @@ description:
 			</td>
 		</tr>
 		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/25824354/collections" target="_blank">3.8</a>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/25824354/collections" target="_blank">3.5</a>
 			</td>
 			<td>『<a class="movie" href="http://movie.douban.com/subject/25824354/" target="_blank">僵尸海狸</a>』</td>
 			<td><a class="dllink" href="ftp://1:1@p27.poxiao.com:8201/[www.poxiao.com破晓电影]僵尸海狸BD中英双字.rmvb" target="_blank">僵尸海狸BD中英双字</a>
@@ -59,7 +110,7 @@ description:
 			</td>
 		</tr>
 		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/25731086/collections" target="_blank">5.5</a>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/25731086/collections" target="_blank">5.4</a>
 			</td>
 			<td>『<a class="movie" href="http://movie.douban.com/subject/25731086/" target="_blank">黎明之眼</a>』</td>
 			<td><a class="dllink" href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]黎明之眼BD中英双字.rmvb" target="_blank">黎明之眼BD中英双字</a>
@@ -79,7 +130,7 @@ description:
 			</td>
 		</tr>
 		<tr>
-			<td><a class="grade_good" href="http://movie.douban.com/subject/20497905/collections" target="_blank">7.4</a>
+			<td><a class="grade_good" href="http://movie.douban.com/subject/20497905/collections" target="_blank">7.3</a>
 			</td>
 			<td>『<a class="movie" href="http://movie.douban.com/subject/20497905/" target="_blank">泽西男孩</a>』</td>
 			<td><a class="dllink" href="ftp://1:1@p27.poxiao.com:8201/[www.poxiao.com破晓电影]泽西男孩BD中英双字.rmvb" target="_blank">泽西男孩BD中英双字</a>
@@ -119,7 +170,7 @@ description:
 			</td>
 		</tr>
 		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/24702267/collections" target="_blank">6.8</a>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/24702267/collections" target="_blank">6.7</a>
 			</td>
 			<td>『<a class="movie" href="http://movie.douban.com/subject/24702267/" target="_blank">警察游戏</a>』</td>
 			<td><a class="dllink" href="ftp://6:6@p27.poxiao.com:8201/[www.poxiao.com破晓电影]警察游戏BD中英双字.rmvb" target="_blank">警察游戏BD中英双字</a>
@@ -129,7 +180,7 @@ description:
 			</td>
 		</tr>
 		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/24321137/collections" target="_blank">5.0</a>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/24321137/collections" target="_blank">4.8</a>
 			</td>
 			<td>『<a class="movie" href="http://movie.douban.com/subject/24321137/" target="_blank">燥热</a>』</td>
 			<td><a class="dllink" href="ftp://7:7@p27.poxiao.com:8201/[www.poxiao.com破晓电影]燥热HD高清英语中字.rmvb" target="_blank">燥热HD高清英语中字</a>
@@ -189,7 +240,7 @@ description:
 			</td>
 		</tr>
 		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/25913178/collections" target="_blank">4.0</a>
+			<td><a class="grade_bad" href="http://movie.douban.com/subject/25913178/collections" target="_blank">3.9</a>
 			</td>
 			<td>『<a class="movie" href="http://movie.douban.com/subject/25913178/" target="_blank">飞跃地心</a>』</td>
 			<td><a class="dllink" href="ftp://8:8@p13.poxiao.com:8202/[www.poxiao.com破晓电影]飞跃地心BD国语中字.mkv" target="_blank">飞跃地心BD国语中字</a>
@@ -198,60 +249,10 @@ description:
 				<br />
 			</td>
 		</tr>
-		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/25783914/collections" target="_blank">6.1</a>
-			</td>
-			<td>『<a class="movie" href="http://movie.douban.com/subject/25783914/" target="_blank">舞出我人生5</a>』</td>
-			<td><a class="dllink" href="ftp://8:8@p27.poxiao.com:8201/[www.poxiao.com破晓电影]舞出我人生5BD中英双字.rmvb" target="_blank">舞出我人生5BD中英双字</a>
-			</td>
-			<td><a class="dlsource" href="http://www.poxiao.com/movie/37742.html" target="_blank">破晓电影</a>
-				<br />
-			</td>
-		</tr>
-		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/25755645/collections" target="_blank">5.9</a>
-			</td>
-			<td>『<a class="movie" href="http://movie.douban.com/subject/25755645/" target="_blank">老男孩猛龙过江</a>』</td>
-			<td><a class="dllink" href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]老男孩猛龙过江BD国语中字.rmvb" target="_blank">老男孩猛龙过江BD国语中字</a>
-			</td>
-			<td><a class="dlsource" href="http://www.poxiao.com/movie/37415.html" target="_blank">破晓电影</a>
-				<br />
-			</td>
-		</tr>
-		<tr>
-			<td><a class="grade_good" href="http://movie.douban.com/subject/25858604/collections" target="_blank">7.8</a>
-			</td>
-			<td>『<a class="movie" href="http://movie.douban.com/subject/25858604/" target="_blank">普罗旺斯的夏天</a>』</td>
-			<td><a class="dllink" href="ftp://6:6@p13.poxiao.com:8202/[www.poxiao.com破晓电影]普罗旺斯的夏天BD法语中字.rmvb" target="_blank">普罗旺斯的夏天BD法语中字</a>
-			</td>
-			<td><a class="dlsource" href="http://www.poxiao.com/movie/37741.html" target="_blank">破晓电影</a>
-				<br />
-			</td>
-		</tr>
-		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/21355752/collections" target="_blank">6.0</a>
-			</td>
-			<td>『<a class="movie" href="http://movie.douban.com/subject/21355752/" target="_blank">年轻人</a>』</td>
-			<td><a class="dllink" href="ftp://7:7@p27.poxiao.com:8201/[www.poxiao.com破晓电影]年轻人BD中英双字.rmvb" target="_blank">年轻人BD中英双字</a>
-			</td>
-			<td><a class="dlsource" href="http://www.poxiao.com/movie/37740.html" target="_blank">破晓电影</a>
-				<br />
-			</td>
-		</tr>
-		<tr>
-			<td><a class="grade_bad" href="http://movie.douban.com/subject/25758705/collections" target="_blank">3.9</a>
-			</td>
-			<td>『<a class="movie" href="http://movie.douban.com/subject/25758705/" target="_blank">缘来是游戏</a>』</td>
-			<td><a class="dllink" href="ftp://5:5@p13.poxiao.com:8202/[www.poxiao.com破晓电影]缘来是游戏BD中英双字.rmvb" target="_blank">缘来是游戏BD中英双字</a>
-			</td>
-			<td><a class="dlsource" href="http://www.poxiao.com/movie/37738.html" target="_blank">破晓电影</a>
-				<br />
-			</td>
-		</tr>
 	</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2014-11-04 16:02:09，耗时51.475064216063195秒</td>
+			<td colspan="4">更新于2014-11-07 21:39:01，耗时90.79654889719149秒</td>
 		</tr>
 	</tfoot>
 </table>
