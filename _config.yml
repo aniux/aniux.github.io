@@ -24,11 +24,7 @@ favicon: http://www.sudu.cn/ico/favicon.ico
 ga:
   id: UA-55185080-1
   url: aniux.com
-
-# disqus 设置
-disqus:
-  shortname: 
-
+     
 # 主题设置，自动激活某个标签
 active: 笔记
 
