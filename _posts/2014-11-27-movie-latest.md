@@ -6,14 +6,15 @@ tags: movie
 keywords: movie 
 description: python 多线程 抓取
 ---
-<h2 style="text-align:center;color:#D54E21;margin:20px auto">电影值得看 の 最新热门电影@2014-11-27</h2>
-<div>PS：所有数据来源于网络（破晓电影和豆瓣网），仅作学习Python抓取数据、多线程和页面分析研究，请勿用于商业用途。</div>
+<h2 style="text-align:center;color:#D54E21;margin:20px auto">电影值得看 の 2014-11-27</h2>
+<div>PS：数据来源于网络（破晓电影和豆瓣网），通过抓取破晓电影网的每日最新电影，结合电影名称，抓取豆瓣网对该电影的评分。
+按照电影评分由高到低排序，方便选择。使用了python的抓取、正则、多线程等知识。</div>
 <table id="movietb">
 	<thead>
 		<tr>
 			<td min-width="150px">豆瓣评分（豆瓣电影）</td>
 			<td min-width="300px">名称（破晓电影）</td>
-			<td>下载（破晓电影，复制链接到迅雷）</td>
+			<td>下载链接（破晓电影，复制链接到迅雷）</td>
 		</tr>
 	</thead>
 	<tbody>
@@ -135,7 +136,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2014-11-27 09:07:21，耗时4.92秒</td>
+			<td colspan="4">更新于2014-11-27 09:24:20，耗时4.44秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
