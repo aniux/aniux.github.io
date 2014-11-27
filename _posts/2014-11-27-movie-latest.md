@@ -135,19 +135,19 @@ description:
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2014-11-27 08:45:33，耗时2.407676736494117秒</td>
+			<td colspan="4">更新于2014-11-27 08:54:06，耗时3.958827269939494秒</td>
 		</tr>
 	</tfoot>
-</table><style>
-#movietb {width:790px;border:1px #CCCCCC solid;font-size:14px;margin:20px auto;}
-#movietb td {border:1px #CCCCCC dotted;line-height:24px;vertical-align: middle;}
-#movietb a {text-decoration:none;color:#464646; text-shadow:0 1px 0 #F2F2F2;border:0!important}
-#movietb a:hover {text-decoration:underline;color:#D54E21;}
-#movietb tbody tr:hover{background:#CCC}
-.grade_good {color:#FF5138!important;margin-left:30px}
-.grade_bad {text-decoration:line-through!important;margin-left:30px}
-#movietb thead {background-color:#666;color:#eee;text-align:center}
-#movietb tbody {text-align:left;}
-#movietb tbody td {padding-left:10px;}
-#movietb tfoot td,.size {padding-left: 10px;font-size:12px;color:#999}
+</table>	<style>
+	#movietb {width:790px;border:1px #CCCCCC solid;font-size:14px;margin:20px auto;}
+	#movietb td {border:1px #CCCCCC dotted;line-height:24px;vertical-align: middle;}
+	#movietb a {text-decoration:none;color:#464646; text-shadow:0 1px 0 #F2F2F2;border:0!important}
+	#movietb a:hover {text-decoration:underline;color:#D54E21;}
+	#movietb tbody tr:hover{background:#CCC}
+	.grade_good {color:#FF5138!important;margin-left:30px}
+	.grade_bad {text-decoration:line-through!important;margin-left:30px}
+	#movietb thead {background-color:#666;color:#eee;text-align:center}
+	#movietb tbody {text-align:left;}
+	#movietb tbody td {padding-left:10px;}
+	#movietb tfoot td,.size {padding-left: 10px;font-size:12px;color:#999}
 </style>
