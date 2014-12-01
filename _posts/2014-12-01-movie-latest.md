@@ -98,12 +98,6 @@ description: python 多线程 抓取
 			<td><a href="ftp://8:8@p13.poxiao.com:8202/[www.poxiao.com破晓电影]忍者神龟：变种时代BD中英双字.rmvb" target="_blank">忍者神龟：变种时代BD中英双字</a></td>
 		</tr>
 				<tr>
-			<td>2014-11-21</td>
-			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25821124/" target="_blank">6.3</a></td>
-			<td>『<a href="http://www.poxiao.com/movie/37820.html" target="_blank">地下墓穴</a>』</td>
-			<td><a href="ftp://4:4@p27.poxiao.com:8201/[www.poxiao.com破晓电影]巴黎地下墓穴BD中英双字.rmvb" target="_blank">巴黎地下墓穴BD中英双字</a></td>
-		</tr>
-				<tr>
 			<td>2014-11-23</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25785812/" target="_blank">5.9</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/37825.html" target="_blank">巴巴杜</a>』</td>
@@ -154,7 +148,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2014-12-01 15:31:19，耗时5.48秒</td>
+			<td colspan="4">更新于2014-12-01 15:34:54，耗时16.75秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
@@ -168,6 +162,7 @@ description: python 多线程 抓取
 	#movietb tbody td {padding-left:10px;}
 	#movietb tfoot td,.size {padding-left: 10px;font-size:12px;color:#999}
 </style>
+<script type="text/javascript" src="/public/js/jquery.js"></script>
 <script type="text/javascript" src="/public/js/jquery.dataTables.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
