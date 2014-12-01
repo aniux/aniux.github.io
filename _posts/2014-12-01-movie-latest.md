@@ -92,6 +92,12 @@ description: python 多线程 抓取
 			<td><a href="ftp://3:3@p27.poxiao.com:8201/[www.poxiao.com破晓电影]男人不可以穷BD国粤双语中字.mkv" target="_blank">男人不可以穷BD国粤双语中字</a></td>
 		</tr>
 				<tr>
+			<td>2014-11-28</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/3217149/" target="_blank">6.5</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/37748.html" target="_blank">忍者神龟：变种时代</a>』</td>
+			<td><a href="ftp://8:8@p13.poxiao.com:8202/[www.poxiao.com破晓电影]忍者神龟：变种时代BD中英双字.rmvb" target="_blank">忍者神龟：变种时代BD中英双字</a></td>
+		</tr>
+				<tr>
 			<td>2014-11-21</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25821124/" target="_blank">6.3</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/37820.html" target="_blank">地下墓穴</a>』</td>
@@ -145,16 +151,10 @@ description: python 多线程 抓取
 			<td>『<a href="http://www.poxiao.com/movie/37822.html" target="_blank">卧龙岗</a>』</td>
 			<td><a href="ftp://5:5@p13.poxiao.com:8202/[www.poxiao.com破晓电影]卧龙岗BD国语中字.rmvb" target="_blank">卧龙岗BD国语中字</a></td>
 		</tr>
-				<tr>
-			<td>2014-11-28</td>
-			<td style="color:#FF5138!important;text-align:center;"><a href="0" target="_blank">/#</a></td>
-			<td>『<a href="http://www.poxiao.com/movie/37748.html" target="_blank">忍者神龟：变种时代</a>』</td>
-			<td><a href="ftp://8:8@p13.poxiao.com:8202/[www.poxiao.com破晓电影]忍者神龟：变种时代BD中英双字.rmvb" target="_blank">忍者神龟：变种时代BD中英双字</a></td>
-		</tr>
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2014-12-01 15:58:57，耗时2.50秒</td>
+			<td colspan="4">更新于2014-12-01 16:05:54，耗时2.69秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
