@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 电影值得看2014-11-28
-category: 其他
+category: 电影
 tags: movie
 keywords: movie 
 description: python 多线程 抓取

@@ -126,13 +126,3 @@ description: python 多线程 抓取
 	#movietb tbody td {padding-left:10px;}
 	#movietb tfoot td,.size {padding-left: 10px;font-size:12px;color:#999}
 </style>
-<script type="text/javascript" src="/public/js/jquery.js"></script>
-<script type="text/javascript" src="/public/js/jquery.dataTables.min.js"></script>
-<script type="text/javascript">
-	$(document).ready(function() {
-		$("#movietb").DataTable({
-			"paging":false,
-			"searching": false
-		});
-	} );
-</script>

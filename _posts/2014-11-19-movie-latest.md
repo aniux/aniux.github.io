@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 电影值得看2014-11-19
-category: 其他
+category: 电影
 tags: movie
 keywords: movie 
 description: 
