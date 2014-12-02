@@ -20,10 +20,22 @@ description: python 多线程 抓取
 	</thead>
 	<tbody>
 		<tr>
+			<td>2014-11-27</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="0" target="_blank">/#</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/37836.html" target="_blank">狙击时刻</a>』</td>
+			<td><a href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]狙击时刻BD中英双字.rmvb" target="_blank">狙击时刻BD中英双字</a></td>
+		</tr>
+				<tr>
 			<td>2014-11-29</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/10508874/" target="_blank">5.6</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/37839.html" target="_blank">布拉芙夫人</a>』</td>
 			<td><a href="ftp://2:2@p13.poxiao.com:8202/[www.poxiao.com破晓电影]布拉芙夫人BD韩语中字.rmvb" target="_blank">布拉芙夫人BD韩语中字</a></td>
+		</tr>
+				<tr>
+			<td>2014-12-02</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/10545939/" target="_blank">7.1</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/37842.html" target="_blank">黄金时代</a>』</td>
+			<td><a href="ftp://6:6@p13.poxiao.com:8202/[www.poxiao.com破晓电影]黄金时代HD国语中字.rmvb" target="_blank">黄金时代HD国语中字</a></td>
 		</tr>
 				<tr>
 			<td>2014-11-23</td>
@@ -122,12 +134,6 @@ description: python 多线程 抓取
 			<td><a href="ftp://3:3@p27.poxiao.com:8201/[www.poxiao.com破晓电影]男人不可以穷BD国粤双语中字.mkv" target="_blank">男人不可以穷BD国粤双语中字</a></td>
 		</tr>
 				<tr>
-			<td>2014-11-27</td>
-			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25962762/" target="_blank">4.1</a></td>
-			<td>『<a href="http://www.poxiao.com/movie/37836.html" target="_blank">狙击时刻</a>』</td>
-			<td><a href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]狙击时刻BD中英双字.rmvb" target="_blank">狙击时刻BD中英双字</a></td>
-		</tr>
-				<tr>
 			<td>2014-11-19</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/26257346/" target="_blank">8.2</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/37816.html" target="_blank">完美公路之旅2</a>』</td>
@@ -154,7 +160,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2014-12-02 16:46:28，耗时1.83秒</td>
+			<td colspan="4">更新于2014-12-02 16:51:54，耗时5.66秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
