@@ -20,12 +20,6 @@ description: python 多线程 抓取
 	</thead>
 	<tbody>
 		<tr>
-			<td>2014-11-29</td>
-			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/10508874/" target="_blank">5.6</a></td>
-			<td>『<a href="http://www.poxiao.com/movie/37839.html" target="_blank">布拉芙夫人</a>』</td>
-			<td><a href="ftp://2:2@p13.poxiao.com:8202/[www.poxiao.com破晓电影]布拉芙夫人BD韩语中字.rmvb" target="_blank">布拉芙夫人BD韩语中字</a></td>
-		</tr>
-				<tr>
 			<td>2014-11-23</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/10549480/" target="_blank">7.5</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/37824.html" target="_blank">你眼中的世界</a>』</td>
@@ -111,7 +105,7 @@ description: python 多线程 抓取
 		</tr>
 				<tr>
 			<td>2014-11-30</td>
-			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25786057/" target="_blank">5.1</a></td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25786057/" target="_blank">5.0</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/37841.html" target="_blank">下水井</a>』</td>
 			<td><a href="ftp://5:5@p13.poxiao.com:8202/[www.poxiao.com破晓电影]下水井BD韩语中字.rmvb" target="_blank">下水井BD韩语中字</a></td>
 		</tr>
@@ -134,12 +128,6 @@ description: python 多线程 抓取
 			<td><a href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]狙击时刻BD中英双字.rmvb" target="_blank">狙击时刻BD中英双字</a></td>
 		</tr>
 				<tr>
-			<td>2014-11-19</td>
-			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/26257346/" target="_blank">8.2</a></td>
-			<td>『<a href="http://www.poxiao.com/movie/37816.html" target="_blank">完美公路之旅2</a>』</td>
-			<td><a href="ftp://3:3@p13.poxiao.com:8202/[www.poxiao.com破晓电影]完美公路之旅2BD中英双字.rmvb" target="_blank">完美公路之旅2BD中英双字</a></td>
-		</tr>
-				<tr>
 			<td>2014-11-28</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/3217149/" target="_blank">6.5</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/37748.html" target="_blank">忍者神龟：变种时代</a>』</td>
@@ -160,7 +148,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2014-12-02 09:33:29，耗时2.81秒</td>
+			<td colspan="4">更新于2014-12-02 14:10:13，耗时15.92秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
