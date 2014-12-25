@@ -154,7 +154,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2014-12-25 13:52:24，耗时2.53秒</td>
+			<td colspan="4">更新于2014-12-25 13:52:45，耗时4.99秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
