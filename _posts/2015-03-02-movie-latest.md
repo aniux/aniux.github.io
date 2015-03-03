@@ -34,7 +34,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2015-03-02 22:16:46，耗时32.73秒</td>
+			<td colspan="4">更新于2015-03-02 22:23:20，耗时19.34秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
