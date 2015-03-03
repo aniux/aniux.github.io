@@ -62,6 +62,12 @@ description: python 多线程 抓取
 			<td><a href="ftp://8:8@p13.poxiao.com:8202/[www.poxiao.com破晓电影]有一个地方只有我们知道DVD国语中英双字.rmvb" target="_blank">有一个地方只有我们知道DVD国语中英双字</a></td>
 		</tr>
 				<tr>
+			<td>2015-02-19</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25880244/" target="_blank">5.2</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38090.html" target="_blank">一路惊喜</a>』</td>
+			<td><a href="ftp://6:6@p13.poxiao.com:8202/[www.poxiao.com破晓电影]一路惊喜DVD国语中英双字.rmvb" target="_blank">一路惊喜DVD国语中英双字</a></td>
+		</tr>
+				<tr>
 			<td>2015-02-17</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/22508259/" target="_blank">6.0</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38086.html" target="_blank">恶老板2</a>』</td>
@@ -82,7 +88,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2015-03-03 11:05:30，耗时25.68秒</td>
+			<td colspan="4">更新于2015-03-03 11:05:44，耗时39.42秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
