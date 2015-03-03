@@ -20,10 +20,22 @@ description: python 多线程 抓取
 	</thead>
 	<tbody>
 		<tr>
+			<td>2015-03-03</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/24522866/" target="_blank">6.8</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38120.html" target="_blank">吉米的舞厅</a>』</td>
+			<td><a href="ftp://4:4@p13.poxiao.com:8202/[www.poxiao.com破晓电影]吉米的舞厅BD中英双字.rmvb" target="_blank">吉米的舞厅BD中英双字</a></td>
+		</tr>
+				<tr>
 			<td>2015-03-02</td>
-			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/26334244/" target="_blank">9.5</a></td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/26334244/" target="_blank">9.4</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38118.html" target="_blank">穹顶之下</a>』</td>
 			<td><a href="ftp://3:3@p13.poxiao.com:8202/[www.poxiao.com破晓电影]穹顶之下HD国语中字.rmvb" target="_blank">穹顶之下HD国语中字</a></td>
+		</tr>
+				<tr>
+			<td>2015-03-02</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/26274910/" target="_blank">3.3</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38119.html" target="_blank">奔跑吧！兄弟</a>』</td>
+			<td><a href="ftp://2:2@p13.poxiao.com:8202/[www.poxiao.com破晓电影]奔跑吧！兄弟HD国语中英双字.rmvb" target="_blank">奔跑吧！兄弟HD国语中英双字</a></td>
 		</tr>
 				<tr>
 			<td>2015-03-01</td>
@@ -32,8 +44,20 @@ description: python 多线程 抓取
 			<td><a href="ftp://8:8@p13.poxiao.com:8202/[www.poxiao.com破晓电影]热血男人帮HD国语中英双字.rmvb" target="_blank">热血男人帮HD国语中英双字</a></td>
 		</tr>
 				<tr>
+			<td>2015-03-01</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/21319853/" target="_blank">7.4</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38115.html" target="_blank">透纳先生</a>』</td>
+			<td><a href="ftp://1:1@p13.poxiao.com:8202/[www.poxiao.com破晓电影]透纳先生BD中英双字.rmvb" target="_blank">透纳先生BD中英双字</a></td>
+		</tr>
+				<tr>
+			<td>2015-02-27</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/3014399/" target="_blank">5.1</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38113.html" target="_blank">死亡占卜</a>』</td>
+			<td><a href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]死亡占卜BD中英双字.rmvb" target="_blank">死亡占卜BD中英双字</a></td>
+		</tr>
+				<tr>
 			<td>2015-02-26</td>
-			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/21349734/" target="_blank">7.1</a></td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/21349734/" target="_blank">7.0</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38101.html" target="_blank">博物馆奇妙夜3</a>』</td>
 			<td><a href="ftp://6:6@p13.poxiao.com:8202/[www.poxiao.com破晓电影]博物馆奇妙夜3BD中英双字.rmvb" target="_blank">博物馆奇妙夜3BD中英双字</a></td>
 		</tr>
@@ -42,6 +66,18 @@ description: python 多线程 抓取
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/3112738/" target="_blank">5.5</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38099.html" target="_blank">赛琳娜</a>』</td>
 			<td><a href="ftp://4:4@p13.poxiao.com:8202/[www.poxiao.com破晓电影]赛琳娜BD中英双字.rmvb" target="_blank">赛琳娜BD中英双字</a></td>
+		</tr>
+				<tr>
+			<td>2015-02-25</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/26306929/" target="_blank">4.6</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38100.html" target="_blank">龙之心3: 巫师的诅咒</a>』</td>
+			<td><a href="ftp://5:5@p13.poxiao.com:8202/[www.poxiao.com破晓电影]龙之心3巫师的诅咒BD中英双字.rmvb" target="_blank">龙之心3巫师的诅咒BD中英双字</a></td>
+		</tr>
+				<tr>
+			<td>2015-02-23</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25828521/" target="_blank">5.9</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38098.html" target="_blank">今天的恋爱</a>』</td>
+			<td><a href="ftp://5:5@p13.poxiao.com:8202/[www.poxiao.com破晓电影]今天的恋爱BD韩语中字.rmvb" target="_blank">今天的恋爱BD韩语中字</a></td>
 		</tr>
 				<tr>
 			<td>2015-02-22</td>
@@ -56,10 +92,28 @@ description: python 多线程 抓取
 			<td><a href="ftp://1:1@p13.poxiao.com:8202/[www.poxiao.com破晓电影]狐狸猎手BD中英双字.rmvb" target="_blank">狐狸猎手BD中英双字</a></td>
 		</tr>
 				<tr>
+			<td>2015-02-22</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25870084/" target="_blank">7.3</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38012.html" target="_blank">重返20岁</a>』</td>
+			<td><a href="ftp://3:3@p13.poxiao.com:8202/[www.poxiao.com破晓电影]重返20岁BD中英双字.rmvb" target="_blank">重返20岁BD中英双字</a></td>
+		</tr>
+				<tr>
+			<td>2015-02-22</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/20441632/" target="_blank">8.2</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38096.html" target="_blank">爱，简单</a>』</td>
+			<td><a href="ftp://2:2@p13.poxiao.com:8202/[www.poxiao.com破晓电影]爱简单BD中英双字.rmvb" target="_blank">爱简单BD中英双字</a></td>
+		</tr>
+				<tr>
 			<td>2015-02-20</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25858759/" target="_blank">5.0</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38093.html" target="_blank">有一个地方只有我们知道</a>』</td>
 			<td><a href="ftp://8:8@p13.poxiao.com:8202/[www.poxiao.com破晓电影]有一个地方只有我们知道DVD国语中英双字.rmvb" target="_blank">有一个地方只有我们知道DVD国语中英双字</a></td>
+		</tr>
+				<tr>
+			<td>2015-02-20</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/20494466/" target="_blank">7.7</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38091.html" target="_blank">鳄鱼的黄眼睛</a>』</td>
+			<td><a href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]鳄鱼的黄眼睛BD法语中字.rmvb" target="_blank">鳄鱼的黄眼睛BD法语中字</a></td>
 		</tr>
 				<tr>
 			<td>2015-02-19</td>
@@ -68,10 +122,28 @@ description: python 多线程 抓取
 			<td><a href="ftp://6:6@p13.poxiao.com:8202/[www.poxiao.com破晓电影]一路惊喜DVD国语中英双字.rmvb" target="_blank">一路惊喜DVD国语中英双字</a></td>
 		</tr>
 				<tr>
+			<td>2015-02-19</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/24750968/" target="_blank">5.8</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38089.html" target="_blank">早熟</a>』</td>
+			<td><a href="ftp://5:5@p13.poxiao.com:8202/[www.poxiao.com破晓电影]早熟BD中英双字.rmvb" target="_blank">早熟BD中英双字</a></td>
+		</tr>
+				<tr>
 			<td>2015-02-17</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/22508259/" target="_blank">6.0</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38086.html" target="_blank">恶老板2</a>』</td>
 			<td><a href="ftp://4:4@p13.poxiao.com:8202/[www.poxiao.com破晓电影]恶老板2BD中英双字.rmvb" target="_blank">恶老板2BD中英双字</a></td>
+		</tr>
+				<tr>
+			<td>2015-02-17</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/10807909/" target="_blank">7.8</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/37962.html" target="_blank">智取威虎山</a>』</td>
+			<td><a href="ftp://3:3@p13.poxiao.com:8202/[www.poxiao.com破晓电影]智取威虎山HD中英双字.rmvb" target="_blank">智取威虎山HD中英双字</a></td>
+		</tr>
+				<tr>
+			<td>2015-02-14</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25947154/" target="_blank">7.2</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38084.html" target="_blank">爱的那点性事</a>』</td>
+			<td><a href="ftp://6:6@p13.poxiao.com:8202/[www.poxiao.com破晓电影]爱的那点性事BD中英双字.rmvb" target="_blank">爱的那点性事BD中英双字</a></td>
 		</tr>
 				<tr>
 			<td>2015-02-14</td>
@@ -88,7 +160,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2015-03-03 11:05:44，耗时39.42秒</td>
+			<td colspan="4">更新于2015-03-03 23:33:04，耗时3.65秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
