@@ -62,6 +62,12 @@ description: python 多线程 抓取
 			<td><a href="ftp://5:5@p13.poxiao.com:8202/[www.poxiao.com破晓电影]王牌BD国语中字.rmvb" target="_blank">王牌BD国语中字</a></td>
 		</tr>
 				<tr>
+			<td>2015-05-22</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/25709385/" target="_blank">4.7</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38387.html" target="_blank">怪兽：黑暗大陆</a>』</td>
+			<td><a href="ftp://4:4@p13.poxiao.com:8202/[www.poxiao.com破晓电影]怪兽：黑暗大陆BD中英双字.rmvb" target="_blank">怪兽：黑暗大陆BD中英双字</a></td>
+		</tr>
+				<tr>
 			<td>2015-05-21</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/1293213/" target="_blank">8.4</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38386.html" target="_blank">恶魔</a>』</td>
@@ -90,6 +96,12 @@ description: python 多线程 抓取
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/26301735/" target="_blank">2.9</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38365.html" target="_blank">吉星高照2015</a>』</td>
 			<td><a href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]吉星高照2015BD国粤双语中字.mkv" target="_blank">吉星高照2015BD国粤双语中字</a></td>
+		</tr>
+				<tr>
+			<td>2015-05-18</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/4160540/" target="_blank">7.6</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38371.html" target="_blank">机械姬</a>』</td>
+			<td><a href="ftp://6:6@p13.poxiao.com:8202/[www.poxiao.com破晓电影]机械姬BD中英双字.rmvb" target="_blank">机械姬BD中英双字</a></td>
 		</tr>
 				<tr>
 			<td>2015-05-16</td>
@@ -135,6 +147,12 @@ description: python 多线程 抓取
 		</tr>
 				<tr>
 			<td>2015-05-12</td>
+			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/3993588/" target="_blank">7.0</a></td>
+			<td>『<a href="http://www.poxiao.com/movie/38202.html" target="_blank">狼图腾</a>』</td>
+			<td><a href="ftp://7:7@p13.poxiao.com:8202/[www.poxiao.com破晓电影]狼图腾BD国语中字.rmvb" target="_blank">狼图腾BD国语中字</a></td>
+		</tr>
+				<tr>
+			<td>2015-05-12</td>
 			<td style="color:#FF5138!important;text-align:center;"><a href="http://movie.douban.com/subject/26088329/" target="_blank">7.4</a></td>
 			<td>『<a href="http://www.poxiao.com/movie/38354.html" target="_blank">世纪审判</a>』</td>
 			<td><a href="ftp://6:6@p13.poxiao.com:8202/[www.poxiao.com破晓电影]世纪审判BD中英双字.rmvb" target="_blank">世纪审判BD中英双字</a></td>
@@ -142,7 +160,7 @@ description: python 多线程 抓取
 			</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2015-05-27 10:51:53，耗时46.17秒</td>
+			<td colspan="4">更新于2015-05-27 11:05:52，耗时8.47秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
