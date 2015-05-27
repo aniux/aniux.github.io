@@ -22,7 +22,7 @@ description: python 多线程 抓取
 	</tbody>
 	<tfoot>
 		<tr>
-			<td colspan="4">更新于2015-05-27 10:33:27，耗时0.50秒</td>
+			<td colspan="4">更新于2015-05-27 10:45:25，耗时0.97秒</td>
 		</tr>
 	</tfoot>
 </table>	<style>
